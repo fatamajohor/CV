@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Oswald', sans-serif;
+}
+#fullDiv{
+    max-width: 1000px;
+    margin: auto;
+    background: powderblue;
+    height: 2000px;
+}
+
+#imgid img{
+height: 150px;
+width: 157px;
+border-radius: 50%;
+float: left;
+padding: 10px;
+}
+
+#nameId{
+float: left;
+padding: 40px;
+}
+#mailId{
+padding: 62px;
+float: right;
+}
+
+#sectionId{
+clear: both;
+border-bottom: 1px solid black;
+border-top: 3px solid black;
+padding: 20px;
+}
+#personal{
+float: left;
+height: 93px;
+padding: 10px;
+}
+#detailsid{
+padding: 10px;
+margin-left: 300px;
+}
+#workexperience{
+clear: both;
+float: left;
+   
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+#h2Wdiv{
+float: left;
+height: 93px;
+  
+padding: 10px;
+ 
+}
+ #dtsid1{
+    padding: 10px;
+    margin-left: 181px;
+    width: 300px;
+    float: left;
+ }
+ #dtsid2{
+    margin-left: 695px;
+ }
+ h2{
+    color: #015163;
+ }
+ h4{
+    color: #015163;
+ }
